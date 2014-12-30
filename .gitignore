@@ -27,3 +27,14 @@ Podfile.lock
 
 # Carthage
 Carthage/
+# Mac OS X
+*.DS_Store
+
+# Xcode
+project.xcworkspace/
+
+# Backup files
+*~.nib
+\#*#
+.#*
+*.un~
