@@ -106,9 +106,9 @@ extension String {
         }
     }
     //统计长度
-    func length()->Int{
-        return count(self.utf16)
-    }
+//    func length()->Int{
+//        return count(self.utf16)
+//    }
     //统计长度(别名)
     func size()->Int{
         return count(self.utf16)
